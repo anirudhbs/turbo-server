@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/geekskool/turbo-server#readme",
   "dependencies": {
+    "mime-types": "^2.1.18",
     "node-fetch": "^2.0.0",
     "turbo-http": "^0.1.1"
   },
